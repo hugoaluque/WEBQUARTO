@@ -1,0 +1,32 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Sistema Integral Lagunillas"
+  favicon: ./img/logo.ico
+  reader-mode: true
+  navbar:
+    right: 
+      - text: Inicio
+        href: index.qmd
+      - text: Presa Lagunillas
+        menu:
+          - text: Control Diario
+            href: about.qmd
+      - text: Clima
+        href: Clima.qmd
+        
+  page-footer:
+    background: light
+    center: "© Sistema Integral Lagunillas - PEBLT - 2023"
+  
+format:
+  html:
+    grid: 
+      body-width: 1000px
+    theme: cosmo
+    css: styles.css
+    toc: false
+editor: visual
+

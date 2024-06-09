@@ -1,0 +1,7 @@
+---
+title: "Clima - Windy"
+---
+
+```{=html}
+<iframe width="900" height="800" src="https://embed.windy.com/embed.html?type=map&amp;location=coordinates&amp;metricRain=default&amp;metricTemp=°C&amp;metricWind=default&amp;zoom=10&amp;overlay=uvindex&amp;product=cams&amp;level=surface&amp;lat=-15.792&amp;lon=-70.497&amp;pressure=true" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+```

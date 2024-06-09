@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Control Diario - Presa Lagunillas",
+    "section": "",
+    "text": "Importante\n\nEl PEBLT no se hace responsable del uso de terceros de la información publicada en este reporte.\nEl presente reporte contiene  información  colectada  in situ  y  no cuenta con un control de calidad  (Toda información revisada y validada deberá solicitarla por mesa de partes de la institución).\nPara solicitar acceso a la descarga de los datos mostrados en el reporte escribanos a : data.operacion@gmail.com."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sistema Integral Lagunillas",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html#control-diario---presa-lagunillas",
+    "href": "about.html#control-diario---presa-lagunillas",
+    "title": "Presa Lagunillas",
+    "section": "Control Diario - Presa Lagunillas",
+    "text": "Control Diario - Presa Lagunillas\n```{=html} &lt;iframe width=“780” height=“500” src=“https://quarto.org/” title=“Quarto Documentation”&gt;&lt;/iframe&gt; ```"
+  },
+  {
+    "objectID": "about.html#section",
+    "href": "about.html#section",
+    "title": "Presa Lagunillas",
+    "section": "",
+    "text": "```{r, echo=FALSE, results=‘asis’} cat(‘&lt;iframe src=“https://www.ejemplo.com” width=“800” height=“600” frameborder=“0” allowfullscreen&gt;&lt;/iframe&gt;’)```"
+  },
+  {
+    "objectID": "about.html#control-diario",
+    "href": "about.html#control-diario",
+    "title": "Presa Lagunillas",
+    "section": "",
+    "text": "El PEBLT no se hace responsable del uso de terceros de la información publicada en este reporte.\nEl presente reporte contiene  información  colectada  in situ  y  no cuenta con un control de calidad  (Toda información revisada y validada deberá solicitarla por mesa de partes de la institución)."
+  },
+  {
+    "objectID": "Clima.html",
+    "href": "Clima.html",
+    "title": "Clima",
+    "section": "",
+    "text": "&lt;iframe width=\"1300\" height=\"800\" src=\"https://embed.windy.com/embed.html?type=map&amp;location=coordinates&amp;metricRain=default&amp;metricTemp=°C&amp;metricWind=default&amp;zoom=10&amp;overlay=uvindex&amp;product=cams&amp;level=surface&amp;lat=-15.792&amp;lon=-70.497&amp;pressure=true\" frameborder=\"0\" style=\"border:0\" allowfullscreen=\"\"&gt;&lt;/iframe&gt;"
+  },
+  {
+    "objectID": "index.html#garantizando-el-recurso-hídrico-en-la-cuenca-del-río-coata",
+    "href": "index.html#garantizando-el-recurso-hídrico-en-la-cuenca-del-río-coata",
+    "title": "Sistema Integral Lagunillas",
+    "section": "Garantizando el recurso hídrico en la cuenca del río Coata",
+    "text": "Garantizando el recurso hídrico en la cuenca del río Coata"
+  }
+]

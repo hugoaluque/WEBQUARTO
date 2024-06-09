@@ -1,0 +1,8 @@
+---
+title: "Sistema Integral Lagunillas"
+image: ./img/Presa_page.jpg
+about: 
+      template: jolla
+      image-shape: rectangle
+      image-width: 50em
+---

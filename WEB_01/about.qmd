@@ -1,0 +1,15 @@
+---
+title: "Control Diario - Presa Lagunillas"
+---
+
+```{=html}
+
+<iframe width="900" height="1900" src="https://datastudio.google.com/embed/reporting/8e6dacb4-1d84-454d-8e88-91b41fcad71a/page/qX5SC" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+```
+### **Importante**
+
+-   El PEBLT no se hace responsable del uso de terceros de la información publicada en este reporte.
+
+-   El presente reporte contiene  información  colectada  in situ  y  no cuenta con un control de calidad  (Toda información revisada y validada deberá solicitarla por mesa de partes de la institución).
+
+-   Para solicitar acceso a la descarga de los datos mostrados en el reporte escribanos a : **data.operacion\@gmail.com**.
