@@ -13,18 +13,21 @@ website:
       - text: Presa Lagunillas
         menu:
           - text: Control Diario
-            href: about.qmd
+            href: Control-diario.qmd
+          - text: Datos Históricos
+            href: Historico.qmd
+      - text: Portal Geográfico
+        menu:
+          - text: Red Hidrométrica
+            href: Red-hidrometrica.qmd
       - text: Clima
         href: Clima.qmd
         
   page-footer:
     background: light
     center: "© Sistema Integral Lagunillas - PEBLT - 2023"
-  
 format:
   html:
-    grid: 
-      body-width: 1000px
     theme: cosmo
     css: styles.css
     toc: false

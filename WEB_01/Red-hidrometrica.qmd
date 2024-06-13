@@ -1,0 +1,15 @@
+---
+title: "Red Hidrométrica"
+format: 
+  html:
+    grid: 
+        body-width: 1200px
+        sidebar-width: 200px
+        margin-width: 200px
+---
+
+Red Hidrométrica del Sistema Integral Lagunillas.
+
+```{=html}
+<iframe width="1200" height="800" src="https://hugoaluque.github.io/Red-Hidrometrica-SIL/" frameborder="0" style="border:0" allowfullscreen=""></iframe>
+```
